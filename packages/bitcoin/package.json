@@ -32,7 +32,7 @@
     "@ethersproject/bignumber": "^5.7.0",
     "@ethersproject/units": "^5.7.0",
     "@rsksmart/rif-id-mnemonic": "^0.1.1",
-    "bip32": "^2.0.6",
+    "bip32": "^3.0.0",
     "bitcoin-address-validation": "^2.2.1",
     "bitcoinjs-lib": "^6.0.2"
   },
