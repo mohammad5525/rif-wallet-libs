@@ -32,6 +32,6 @@
   "dependencies": {
     "@ethersproject/abstract-provider": "^5.7.0",
     "axios": "^1.2.3",
-    "ethers": "^5.7.2"
+    "ethers": "^6.0.0"
   }
 }
